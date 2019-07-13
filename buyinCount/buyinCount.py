@@ -1,0 +1,5 @@
+min = input()
+max = input()
+a = input()
+buyin = min+(max-min)*(a/10)
+print(buyin)
